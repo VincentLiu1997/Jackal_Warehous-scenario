@@ -1,0 +1,8 @@
+prefix=/home/vincent/Jackal_ws/devel
+
+Name: cpr_accessories_gazebo
+Description: Description of cpr_accessories_gazebo
+Version: 0.2.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
