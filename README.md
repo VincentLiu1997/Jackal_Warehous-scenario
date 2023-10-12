@@ -1,4 +1,4 @@
-# Quick Instruction
+# Instruction
 
 ## 1. Create your workspace and build the environment
 ```
