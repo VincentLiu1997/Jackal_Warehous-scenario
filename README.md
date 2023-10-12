@@ -1,3 +1,5 @@
-# Jackal_Warehous-scenario
-MSc disstertation project  
-Related project video can be seen on our youtube channel via https://www.youtube.com/watch?v=AnQiaDpLaNQ&t=3s
+# Quick Instruction
+
+# 1.Create your workspace and git clone the packages
+$ mkdir -p ~/Jackal_ws/src
+$ cd ~/Jack_ws/src && git clone 
