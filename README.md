@@ -10,7 +10,7 @@ $ cd ~/Jack_ws/ && catkin_make
 ```
 $ roslaunch jackal_gazebo jackal_world.launch config:=front_laser
 ```
-## 3. Launch the AMCL demo and run the navigation
+## 3. Launch the AMCL demo and run the navigation via Rviz
 Open a new terminal.
 ```
 $ roslaunch jackal_navigation amcl_demo.launch map_file:=/YOURPATH/mymap1.yaml
@@ -19,7 +19,7 @@ Open a new terminal.
 ```
 $ roslaunch jackal_viz view_robot.launch config:=localization
 ```
-You can use Set NAV goal for navigation NOW!
+You can use Set NAV goal via Rviz for navigation NOW!
 ## 4. Point Operation and Patrol
 ```
 $ rosrun send_goals point_navigation.py
