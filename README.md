@@ -1,4 +1,4 @@
 # Jackal_Warehous-scenario
-MSc disstertation project  
-The project workspace is created in the master branch  
-Related project video can be seen on our youtube channel via https://www.youtube.com/watch?v=AnQiaDpLaNQ&t=3s
+MSc dissertation project  
+The project workspace is created based on Ubuntu 18.04 ROS Melodic
+Related project video can be seen on our YouTube channel via https://www.youtube.com/watch?v=AnQiaDpLaNQ&t=3s
